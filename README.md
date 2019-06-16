@@ -1,4 +1,4 @@
-# ArtOnWeb-AOW/介绍
+﻿# ArtOnWeb-AOW/介绍
 <!-- Created by TAAG
           _____                   _______                   _____          
          /\    \                 /::\    \                 /\    \         
@@ -72,4 +72,3 @@ http://www.wulihub.com.cn/go/qgMrpQ/index.html
 [Windy hobby-3D printing exhibition](http://www.wulihub.com.cn/go/JMBdEq/index.html)  
 [bing's photography](http://www.wulihub.com.cn/go/QKjOZW/index.html)  
 
-__©The "work sample" in the source code is only used as a sample display, and the copyright belongs to the original author or company.__
